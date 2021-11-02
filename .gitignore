@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+*vk_config.v2.json
 .idea
 params.json
 
